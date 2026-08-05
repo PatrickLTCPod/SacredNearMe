@@ -46,7 +46,7 @@ All must be complete:
 - [x] Product Owner approves event taxonomy
 - [x] Product Owner approves baseline stack or records an alternative ADR
 - [x] GitHub repository created
-- [ ] Protected `main` configured
+- [x] Protected `main` configured
 - [x] Pull-request template active
 - [x] Issue templates active
 - [ ] Initial ADR approved
@@ -54,4 +54,4 @@ All must be complete:
 
 ## Immediate next action
 
-Complete the approved public-readiness work item by publishing the remediated repository, immediately protecting `main`, and opening the review pull request. Do not begin application code.
+Review and merge the Phase 0 public-readiness pull request. After review, the remaining Phase 0 exit criteria are approval of ADR-001 and creation of a Phase 1 work item with acceptance criteria. Do not begin application code.
