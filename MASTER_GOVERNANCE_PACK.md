@@ -360,6 +360,10 @@ Phase 0 is complete. The approved Phase 1 work item is the controlling implement
 
 Phase 1 research and artifact creation may begin only through the approved work item. Event schedule collection, recurrence modeling, database work, and application development remain prohibited.
 
+## Implementation status
+
+The geographic coverage checklist and empty Phase 1 artifact scaffolding have been created on `phase-1/inventory-scaffolding` and are pending Product Owner review and merge. They are not canonical until merged to protected `main`.
+
 ## Approved work now
 
 - Implement `work-items/PHASE-1-CHURCH-INVENTORY-AND-SOURCE-MAP.md` on a dedicated task branch.
@@ -403,7 +407,7 @@ All must be complete:
 
 ## Immediate next action
 
-Begin implementation of the approved Phase 1 church-inventory work item on a dedicated task branch, starting with the geographic coverage checklist and artifact scaffolding. Do not collect worship schedules.
+Begin official-source discovery using the approved geographic coverage checklist and source hierarchy. Start with Archdiocese of Cincinnati directory records, then official parish and family-of-parishes sources. Record location identities and source evidence only. Do not collect worship schedules.
 
 ---
 
