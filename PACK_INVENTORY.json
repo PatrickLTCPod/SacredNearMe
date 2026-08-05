@@ -1,0 +1,110 @@
+[
+  {
+    "path": ".github/CODEOWNERS.template",
+    "bytes": 350
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/bug.yml",
+    "bytes": 1086
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/feature.yml",
+    "bytes": 1426
+  },
+  {
+    "path": ".github/PULL_REQUEST_TEMPLATE.md",
+    "bytes": 813
+  },
+  {
+    "path": "AGENTS.md",
+    "bytes": 3142
+  },
+  {
+    "path": "ARCHITECTURE_GUARDRAILS.md",
+    "bytes": 3825
+  },
+  {
+    "path": "CHATGPT_OPERATING_RULES.md",
+    "bytes": 1201
+  },
+  {
+    "path": "CURRENT_PHASE.md",
+    "bytes": 1818
+  },
+  {
+    "path": "DATA_GOVERNANCE.md",
+    "bytes": 4216
+  },
+  {
+    "path": "MASTER_GOVERNANCE_PACK.md",
+    "bytes": 46501
+  },
+  {
+    "path": "PROJECT_BOARD_AND_LABELS.md",
+    "bytes": 1196
+  },
+  {
+    "path": "PROJECT_CHARTER.md",
+    "bytes": 3541
+  },
+  {
+    "path": "QUALITY_SECURITY_ACCESSIBILITY.md",
+    "bytes": 3720
+  },
+  {
+    "path": "README.md",
+    "bytes": 1784
+  },
+  {
+    "path": "REFERENCES.md",
+    "bytes": 2004
+  },
+  {
+    "path": "RELEASE_AND_VERSIONING.md",
+    "bytes": 1442
+  },
+  {
+    "path": "RISK_REGISTER.md",
+    "bytes": 3754
+  },
+  {
+    "path": "ROADMAP_AND_PHASE_GATES.md",
+    "bytes": 5237
+  },
+  {
+    "path": "ROLES_AND_DECISION_RIGHTS.md",
+    "bytes": 4005
+  },
+  {
+    "path": "SCOPE_AND_PRODUCT_RULES.md",
+    "bytes": 3608
+  },
+  {
+    "path": "WORK_MANAGEMENT_AND_CHANGE_CONTROL.md",
+    "bytes": 3596
+  },
+  {
+    "path": "decisions/ADR-001-INITIAL-STACK.md",
+    "bytes": 1432
+  },
+  {
+    "path": "templates/ADR_TEMPLATE.md",
+    "bytes": 361
+  },
+  {
+    "path": "templates/CHANGE_REQUEST_TEMPLATE.md",
+    "bytes": 546
+  },
+  {
+    "path": "templates/DATA_SOURCE_REVIEW_TEMPLATE.md",
+    "bytes": 687
+  },
+  {
+    "path": "templates/STATUS_REPORT_TEMPLATE.md",
+    "bytes": 367
+  },
+  {
+    "path": "templates/WORK_ITEM_TEMPLATE.md",
+    "bytes": 817
+  }
+]

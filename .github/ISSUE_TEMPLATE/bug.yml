@@ -1,0 +1,46 @@
+name: Bug report
+description: Report behavior that differs from the approved specification
+title: "[BUG] "
+labels: ["type:bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected approved behavior
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - Severity 1 - Release blocker
+        - Severity 2 - High
+        - Severity 3 - Medium
+        - Severity 4 - Low
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots, logs, dates, church, event, or source evidence
+  - type: textarea
+    id: risk
+    attributes:
+      label: User, schedule-accuracy, security, privacy, or accessibility risk
