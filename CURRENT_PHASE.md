@@ -2,7 +2,7 @@
 
 **Active phase:** Phase 0 — Governance and repository foundation  
 **Status:** In progress  
-**Last updated:** August 3, 2026  
+**Last updated:** August 5, 2026  
 **Release target:** None approved yet
 
 ## Current objective
@@ -39,19 +39,19 @@ Establish a controlled project repository and freeze the initial product rules b
 
 All must be complete:
 
-- [ ] Governance pack committed
-- [ ] `AGENTS.md` located at repository root
-- [ ] Product Owner approves project name
-- [ ] Product Owner approves geographic boundary
-- [ ] Product Owner approves event taxonomy
-- [ ] Product Owner approves baseline stack or records an alternative ADR
-- [ ] GitHub repository created
-- [ ] Protected `main` configured
-- [ ] Pull-request template active
-- [ ] Issue templates active
+- [x] Governance pack committed
+- [x] `AGENTS.md` located at repository root
+- [x] Product Owner approves project name
+- [x] Product Owner approves geographic boundary
+- [x] Product Owner approves event taxonomy
+- [x] Product Owner approves baseline stack or records an alternative ADR
+- [x] GitHub repository created
+- [x] Protected `main` configured
+- [x] Pull-request template active
+- [x] Issue templates active
 - [ ] Initial ADR approved
 - [ ] Phase 1 work item created with acceptance criteria
 
 ## Immediate next action
 
-Create the repository and place this pack at its root. Do not begin product code until the unchecked Phase 0 items are resolved and recorded.
+Review and merge the Phase 0 public-readiness pull request. After review, the remaining Phase 0 exit criteria are approval of ADR-001 and creation of a Phase 1 work item with acceptance criteria. Do not begin application code.
