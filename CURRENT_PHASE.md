@@ -49,9 +49,9 @@ All must be complete:
 - [x] Protected `main` configured
 - [x] Pull-request template active
 - [x] Issue templates active
-- [ ] Initial ADR approved
+- [x] Initial ADR approved
 - [ ] Phase 1 work item created with acceptance criteria
 
 ## Immediate next action
 
-Review and merge the Phase 0 public-readiness pull request. After review, the remaining Phase 0 exit criteria are approval of ADR-001 and creation of a Phase 1 work item with acceptance criteria. Do not begin application code.
+Create the Phase 1 church-inventory work item with testable acceptance criteria. Do not begin Phase 1 implementation until that work item is approved and Phase 0 is formally closed.
