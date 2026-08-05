@@ -1,6 +1,6 @@
 # ADR-001: Initial application stack
 
-**Status:** Proposed for Product Owner acceptance  
+**Status:** Accepted  
 **Date:** August 3, 2026  
 **Decision owner:** Patrick  
 
@@ -55,5 +55,6 @@ This decision does not approve implementation beyond the active phase. It freeze
 
 ## Approval
 
-**Product Owner:**  
-**Date:**
+**Product Owner:** Patrick  
+**Approval date:** August 5, 2026  
+**Decision:** The baseline application stack is approved as written.
