@@ -1,39 +1,26 @@
-# Sacred Near Me — Project Governance Pack
+# Sacred Near Me
 
-**Purpose:** Keep the product owner, ChatGPT, and the local Codex implementation environment aligned while building the Clermont County and Cincinnati East Side Catholic worship finder.
+Sacred Near Me is a planned mobile-first Catholic worship finder for Clermont County and Cincinnati's East Side. This is the existing pre-application repository for the project.
 
-**Pack version:** 1.0.0  
-**Created:** August 3, 2026  
-**Project status:** Pre-development governance and data-foundation stage  
-**Canonical timezone:** America/New_York
+## Current status
 
-## How to use this pack
+The project is in **Phase 0 — Governance and repository foundation**. No application code, application dependencies, database schema, or deployment configuration has been created yet.
 
-1. Copy this entire folder into the root of the Sacred Near Me repository.
-2. Keep `AGENTS.md` at the repository root so the local Codex sees it before making changes.
-3. Read `CURRENT_PHASE.md` before beginning any work.
-4. Create a work item from `templates/WORK_ITEM_TEMPLATE.md`.
-5. Do not begin work that is outside the active phase or lacks acceptance criteria.
-6. Record architecture, scope, security, or data-model decisions in `decisions/`.
-7. Update `CURRENT_PHASE.md`, `RISK_REGISTER.md`, and the applicable decision record when approved changes occur.
-8. Treat repository governance files—not chat history—as the project’s source of truth.
+This repository currently contains:
 
-## Reading order
+- Product scope and governance rules
+- Architecture, data, security, privacy, and accessibility guardrails
+- Phase gates, risks, and decision records
+- Work-item and review templates
+- GitHub issue and pull-request templates
+- Approved work-management artifacts
 
-1. `PROJECT_CHARTER.md`
-2. `SCOPE_AND_PRODUCT_RULES.md`
-3. `ROLES_AND_DECISION_RIGHTS.md`
-4. `CURRENT_PHASE.md`
-5. `ROADMAP_AND_PHASE_GATES.md`
-6. `WORK_MANAGEMENT_AND_CHANGE_CONTROL.md`
-7. `ARCHITECTURE_GUARDRAILS.md`
-8. `DATA_GOVERNANCE.md`
-9. `QUALITY_SECURITY_ACCESSIBILITY.md`
-10. `RISK_REGISTER.md`
-11. `AGENTS.md`
+`CURRENT_PHASE.md` defines the active phase and exit criteria. `AGENTS.md` defines the required local implementation-agent workflow. Repository governance files, rather than chat history, are the project's source of truth.
 
-## The governing principle
+## Contributions
 
-> Build the smallest verified product that reliably answers: “What Catholic worship, sacramental, or communal prayer opportunity is available near me now or later today?”
+Outside contributions are not accepted during Phase 0. Unsolicited pull requests may be closed without review. Issues remain available for approved project work and defect tracking. See `CONTRIBUTING.md` for the current policy.
 
-No feature, refactor, integration, or design improvement outranks schedule accuracy, arrival feasibility, source transparency, and simple mobile use.
+## Licensing
+
+Public visibility does not grant an open-source license. No permission is granted to reuse, modify, or redistribute this repository's contents. All rights are reserved unless a later license is explicitly added by the Product Owner.
