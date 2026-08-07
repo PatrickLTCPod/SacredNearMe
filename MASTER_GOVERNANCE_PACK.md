@@ -362,7 +362,7 @@ Phase 1 research and artifact creation may begin only through the approved work 
 
 ## Implementation status
 
-The first Archdiocese-only official-source discovery pass for all 41 approved areas was completed on task branch `phase-1/aoc-directory-discovery` on August 7, 2026 and awaits Product Owner review. Twenty official Archdiocese source records and 31 candidate physical destinations were recorded; 32 area controls have at least one candidate and nine have no directly attributable candidate from this pass. The canonical inventory remains header-only because required travel-zone and status/type semantics are unresolved. Current official parish and family-of-parishes website verification remains, and worship-schedule collection remains prohibited.
+PR #6 was verified merged and local `main` was synchronized at `0ccc2e739957ded9e355e725df26405f7bb4bef4`. The Product Owner-approved semantics for `travel_zone`, `location_type`, `active_status`, and `research_status` are recorded. A current official parish/family web pass verified all 31 Archdiocese candidates and reviewed all nine no-candidate controls. Thirty candidates now have canonical research-stage rows: 23 are `candidate` and seven are `needs_resolution`; CAND-AOC-009 remains research-only because its required travel zone is unresolved. Thirty-seven current official source records were added from 27 reviewed official URLs. Direct-contact follow-up remains for the nine no-candidate controls, six candidate-to-area questions, and the unresolved Southeast Family 4 relationship name; all 30 canonical rows still require coordinate verification before final acceptance. Worship-schedule collection remains prohibited.
 
 ## Approved work now
 
@@ -407,7 +407,7 @@ All must be complete:
 
 ## Immediate next action
 
-Obtain Product Owner decisions on the required inventory-field semantics identified by the Archdiocese discovery pass, then verify the candidates and no-candidate gaps through current official parish and family-of-parishes websites. Record location identities and source evidence only. Do not collect worship schedules.
+Conduct the documented direct parish/family-office confirmation pass for the remaining no-candidate and boundary questions. Record location identities and source evidence only. Do not collect worship schedules.
 
 ---
 
