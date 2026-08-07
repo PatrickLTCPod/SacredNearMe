@@ -10,8 +10,10 @@
 **Status:** Approved  
 **Proposed date:** August 5, 2026  
 **Approval date:** August 5, 2026  
-**Implementation status:** Not started  
-**Implementation branch:** Not yet created  
+**Implementation status:** In progress  
+**Implementation branch:** `phase-1/inventory-scaffolding`  
+**Implementation started:** August 5, 2026  
+**Current implementation step:** Geographic coverage checklist and artifact scaffolding  
 
 ## Problem
 
