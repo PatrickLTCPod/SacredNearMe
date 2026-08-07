@@ -2,7 +2,7 @@
 
 **Active phase:** Phase 1 — Church inventory and source map  
 **Status:** In progress  
-**Last updated:** August 5, 2026  
+**Last updated:** August 7, 2026  
 **Release target:** None approved yet
 
 ## Current objective
@@ -17,7 +17,7 @@ Phase 1 research and artifact creation may begin only through the approved work 
 
 ## Implementation status
 
-The geographic coverage checklist and empty Phase 1 artifact scaffolding have been created on `phase-1/inventory-scaffolding` and are pending Product Owner review and merge. They are not canonical until merged to protected `main`.
+The geographic coverage checklist and empty Phase 1 artifact scaffolding were merged into protected `main` through PR #4 on August 7, 2026. They are now canonical repository artifacts. Phase 1 remains in progress; external official-source discovery has not yet begun, and worship-schedule collection remains prohibited.
 
 ## Approved work now
 
