@@ -362,7 +362,7 @@ Phase 1 research and artifact creation may begin only through the approved work 
 
 ## Implementation status
 
-The geographic coverage checklist and empty Phase 1 artifact scaffolding were merged into protected `main` through PR #4 on August 7, 2026. They are now canonical repository artifacts. Phase 1 remains in progress; external official-source discovery has not yet begun, and worship-schedule collection remains prohibited.
+The first Archdiocese-only official-source discovery pass for all 41 approved areas was completed on task branch `phase-1/aoc-directory-discovery` on August 7, 2026 and awaits Product Owner review. Twenty official Archdiocese source records and 31 candidate physical destinations were recorded; 32 area controls have at least one candidate and nine have no directly attributable candidate from this pass. The canonical inventory remains header-only because required travel-zone and status/type semantics are unresolved. Current official parish and family-of-parishes website verification remains, and worship-schedule collection remains prohibited.
 
 ## Approved work now
 
@@ -407,7 +407,7 @@ All must be complete:
 
 ## Immediate next action
 
-Begin official-source discovery using the approved geographic coverage checklist and source hierarchy. Start with Archdiocese of Cincinnati directory records, then official parish and family-of-parishes sources. Record location identities and source evidence only. Do not collect worship schedules.
+Obtain Product Owner decisions on the required inventory-field semantics identified by the Archdiocese discovery pass, then verify the candidates and no-candidate gaps through current official parish and family-of-parishes websites. Record location identities and source evidence only. Do not collect worship schedules.
 
 ---
 
