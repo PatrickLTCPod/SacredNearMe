@@ -167,6 +167,8 @@ Batavia, Amelia, Eastgate/Union Township, Withamsville, Milford, Miami Township,
 
 Anderson, Newtown, Mt. Washington, California, Columbia Tusculum, Mt. Lookout, Hyde Park, Oakley, Madisonville, Mariemont, Terrace Park, Indian Hill, Madeira, Kenwood, Montgomery, Blue Ash, Deer Park, Silverton, Pleasant Ridge, Norwood, East Walnut Hills, Mt. Adams, and Loveland.
 
+Within the Clermont County group, `Loveland vicinity` does not extend into unincorporated Deerfield Township, Warren County. St. Margaret of York is therefore outside the Version 1 geographic boundary and remains only a research lead. Future inclusion of Warren County requires an approved geographic boundary change.
+
 Boundary expansion requires a change request explaining maintenance capacity and data-verification ownership.
 
 ## 5. Product language rules
@@ -347,7 +349,7 @@ Chat history is context, not the canonical project record.
 
 **Active phase:** Phase 1 — Church inventory and source map  
 **Status:** In progress  
-**Last updated:** August 20, 2026
+**Last updated:** August 24, 2026
 **Release target:** None approved yet
 
 ## Current objective
@@ -362,7 +364,7 @@ Phase 1 research and artifact creation may begin only through the approved work 
 
 ## Implementation status
 
-PR #7 was authoritatively verified merged at `2dc4bd39fd481390df39cfeefc0c4677e90d08b0`, and local `main` was synchronized before the geographic-verification branch was created. The parish/family pass remains merged. An authoritative county and municipal government-geography pass reviewed all 30 canonical locations, CAND-AOC-009, all 41 controls, all candidate-to-area ambiguities, and all geography-related duplicate cases. The canonical county distribution is 12 Clermont and 18 Hamilton; all existing travel zones remain supported. Twenty-nine canonical rows are now `candidate`; St. Columban remains `needs_resolution` only for the Southeast Family 4 name and the operational distinction between the two Loveland controls. Government evidence resolved the Pierce, Union, Tate, Columbia Tusculum, Good Shepherd, All Saints, and Deer Park/Silverton questions. CAND-AOC-009 is verified in Warren County, unincorporated Deerfield Township, outside Loveland City and remains outside the CSV because neither approved travel zone applies without Product Owner boundary and controlled-field disposition. Catholic-source follow-up remains for destination existence/activity in Goshen, Washington Township, Monroe Township, Jackson Township, California, Mariemont, Terrace Park, Indian Hill, and Blue Ash, plus the Southeast Family 4 name. All 30 canonical rows still require an approved coordinate convention and entrance-level coordinate verification before final acceptance. Worship-schedule collection remains prohibited.
+PR #8 was authoritatively verified merged at `c7577bae07132d9e83d8348b90201e8b6646ca99`, and local `main` was synchronized before the direct-confirmation branch was created. The merged government-geography pass reviewed all 30 canonical locations, CAND-AOC-009, all 41 controls, all candidate-to-area ambiguities, and all geography-related duplicate cases. The Product Owner has clarified that CC-07 `Loveland vicinity` excludes unincorporated Deerfield Township, Warren County. CAND-AOC-009 remains a preserved research lead outside the canonical CSV and outside Version 1 scope; no current travel zone applies, and future Warren County inclusion requires an approved geographic scope change. The canonical county distribution remains 12 Clermont and 18 Hamilton, with all current travel zones supported. Twenty-nine canonical rows remain `candidate`; St. Columban remains `needs_resolution` only for the Southeast Family 4 name. The current Archdiocese directory, regional datasets, family-name registry, and relevant official parish/family sites were rechecked on August 24, 2026. Seven public-office emails were successfully sent for the nine no-candidate controls and the Southeast Family 4 name. No response had been received at this checkpoint, so all nine no-candidate outcomes remain `unable_to_confirm`, the family name remains unresolved, and no direct confirmation is claimed. All 30 canonical rows still require approved naming/address conventions, an approved coordinate convention, and entrance-level coordinate verification before final Product Owner inventory approval. Worship-schedule collection remains prohibited.
 
 ## Approved work now
 
@@ -407,7 +409,7 @@ All must be complete:
 
 ## Immediate next action
 
-Product Owner decides whether CC-07 `Loveland vicinity` intentionally includes the St. Margaret of York campus in unincorporated Deerfield Township, Warren County. If included, approve the required scope/controlled-field change defining travel-zone treatment; if excluded, record that disposition. Do not collect worship schedules.
+Monitor and record responses to the seven public-office direct-confirmation emails, preserving `unable_to_confirm` until an actual factual response is received. Do not collect worship schedules.
 
 ---
 

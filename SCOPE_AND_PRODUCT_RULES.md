@@ -73,6 +73,8 @@ Batavia, Amelia, Eastgate/Union Township, Withamsville, Milford, Miami Township,
 
 Anderson, Newtown, Mt. Washington, California, Columbia Tusculum, Mt. Lookout, Hyde Park, Oakley, Madisonville, Mariemont, Terrace Park, Indian Hill, Madeira, Kenwood, Montgomery, Blue Ash, Deer Park, Silverton, Pleasant Ridge, Norwood, East Walnut Hills, Mt. Adams, and Loveland.
 
+Within the Clermont County group, `Loveland vicinity` does not extend into unincorporated Deerfield Township, Warren County. St. Margaret of York is therefore outside the Version 1 geographic boundary and remains only a research lead. Future inclusion of Warren County requires an approved geographic boundary change.
+
 Boundary expansion requires a change request explaining maintenance capacity and data-verification ownership.
 
 ## 5. Product language rules
