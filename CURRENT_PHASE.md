@@ -2,7 +2,7 @@
 
 **Active phase:** Phase 1 — Church inventory and source map  
 **Status:** In progress  
-**Last updated:** August 7, 2026  
+**Last updated:** August 20, 2026
 **Release target:** None approved yet
 
 ## Current objective
@@ -17,7 +17,7 @@ Phase 1 research and artifact creation may begin only through the approved work 
 
 ## Implementation status
 
-PR #6 was verified merged and local `main` was synchronized at `0ccc2e739957ded9e355e725df26405f7bb4bef4`. The Product Owner-approved semantics for `travel_zone`, `location_type`, `active_status`, and `research_status` are recorded. A current official parish/family web pass verified all 31 Archdiocese candidates and reviewed all nine no-candidate controls. Thirty candidates now have canonical research-stage rows: 23 are `candidate` and seven are `needs_resolution`; CAND-AOC-009 remains research-only because its required travel zone is unresolved. Thirty-seven current official source records were added from 27 reviewed official URLs. Direct-contact follow-up remains for the nine no-candidate controls, six candidate-to-area questions, and the unresolved Southeast Family 4 relationship name; all 30 canonical rows still require coordinate verification before final acceptance. Worship-schedule collection remains prohibited.
+PR #7 was authoritatively verified merged at `2dc4bd39fd481390df39cfeefc0c4677e90d08b0`, and local `main` was synchronized before the geographic-verification branch was created. The parish/family pass remains merged. An authoritative county and municipal government-geography pass reviewed all 30 canonical locations, CAND-AOC-009, all 41 controls, all candidate-to-area ambiguities, and all geography-related duplicate cases. The canonical county distribution is 12 Clermont and 18 Hamilton; all existing travel zones remain supported. Twenty-nine canonical rows are now `candidate`; St. Columban remains `needs_resolution` only for the Southeast Family 4 name and the operational distinction between the two Loveland controls. Government evidence resolved the Pierce, Union, Tate, Columbia Tusculum, Good Shepherd, All Saints, and Deer Park/Silverton questions. CAND-AOC-009 is verified in Warren County, unincorporated Deerfield Township, outside Loveland City and remains outside the CSV because neither approved travel zone applies without Product Owner boundary and controlled-field disposition. Catholic-source follow-up remains for destination existence/activity in Goshen, Washington Township, Monroe Township, Jackson Township, California, Mariemont, Terrace Park, Indian Hill, and Blue Ash, plus the Southeast Family 4 name. All 30 canonical rows still require an approved coordinate convention and entrance-level coordinate verification before final acceptance. Worship-schedule collection remains prohibited.
 
 ## Approved work now
 
@@ -62,4 +62,4 @@ All must be complete:
 
 ## Immediate next action
 
-Conduct the documented direct parish/family-office confirmation pass for the remaining no-candidate and boundary questions. Record location identities and source evidence only. Do not collect worship schedules.
+Product Owner decides whether CC-07 `Loveland vicinity` intentionally includes the St. Margaret of York campus in unincorporated Deerfield Township, Warren County. If included, approve the required scope/controlled-field change defining travel-zone treatment; if excluded, record that disposition. Do not collect worship schedules.
